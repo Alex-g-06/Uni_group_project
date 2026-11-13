@@ -1,5 +1,5 @@
 # Uni_group_project - Alex
-(I missed the first week due to medical issues and needing time off but did the week 1 work during at the start of the second week)
+(I missed the first week due to medical issues and needing time off but did the week 1 work during at the start of the second week. I was still recovering throughout the process of this project and was unable to sit for more then an hour without being in pain until week 5).
 ## Week 1 
 During the first week of the group project I focused on trying to come up with some possible ideas for the dashboard that would need to be created. To do this I did some research into what a dashboard may look like as I have not previously had to create one. To do this I looked up what some key features of a dashboard are as well as looking and testing some to get some inspiration and ideas of what would need to be included in the project.    Due to the tight deadline for the project at the end of the meeting the group gave me a summary and we all decided to take a section from the data that interested us and formulate some requirements.
 
