@@ -1,18 +1,18 @@
 # Uni_group_project - Alex
-##Week 1 
+## Week 1 
 During the first week of the group project I focused on trying to come up with some possible ideas for the dashboard that would need to be created. To do this I did some research into what a dashboard may look like as I have not previously had to create one. To do this I looked up what some key features of a dashboard are as well as looking and testing some to get some inspiration and ideas of what would need to be included in the project.  As a group we then had a call to go through different ideas for the dashboard as well as share the ideas we had for what we could produce.  Due to the tight deadline for the project at the end of the meeting we all decided to take a section from the data that interested us and formulate some requirements.
 
-##Week 2
+## Week 2
 During week 2 I put together some requirements around the section that interested me being daily activity as well as peoples step count. I picked these areas as people at the moment always want to keep track of their steps and are always trying to a hit a goal of 10,000. I also thought it would be interesting to see if people with higher step counts are generally more active as I know some people only walk and some people only go to the gym but I wanted to see if there was a trend between the two.  Once everyone had put together the requirements around their selected area we had a group call. In this group call we went through each others requirments as well as removing any duplicates. We also then as a group went through and added any further requimrents that we would deem necassary for the project.
 
-##Week 3 
+## Week 3 
 During week 3 I performed EDA on the sections that I chose. The results from this were that the mean number of steps was 7638 and the median number of steps was 7406.  There was a minimum of 0, which would be due to someone not using their watch for the day and a maximum of 36,019. Out of the 940 records 303 records had lower then 5000 steps and and a further 303 showed a record of at least 10,000. As a group we then had the call for the week where we went through what we found about the data. We then started to formulate how we were going to create the dashboard. Due to the nature of the work we wanted to use a tool that everyone would have access to and would be free, which led us to the conclusion of using RShiny.
 
-##Week 4
+## Week 4
 During week 4 I helped review the dashboard that was put together in the limited time scale. Ben and Abdi had a free day so during this time they put together a dashboard for the group.  Once they had uploaded the code and told us how to run it I took down some ideas that I believe could improve/ further the dashboard.  These ideas were that if the dashboard was in full screen there was a lot of empty space and I was wondering if there was a way to fill this and the other idea was to see if we could utilise the dates in the dataset to be able to allow the user to select a specific time period. This would allow them to see if someone just had certain days where they were more active then others as well as allowing for more competition as you would be able to set yourself a challenge for the week for example which could lead to the user being more active. Due to the limited time scale and low amount of hours being forecasted for the project these ideas did not end up getting implemented. 
 
-##Week 5
+## Week 5
 Now that the dashboard has been created I am typing up my rough notes from a word document into the GitHub repo to be able to submit. This week Ben managed to quickly put together a video and edit it showing the dashboard that we created.  Before everything was submitted I checked over the repo to make sure all information that was needed for the submission was included.
 
-##Week 6
+## Week 6
 I am now reviewing other peoples dashboards and have put these in a md file called reveiws.md
